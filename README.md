@@ -1,21 +1,21 @@
-# Hello, I'm [ Byron Seilous] 👋
+# Hello, I'm  Byron Seilous 👋
 
 ## About Me
-- 🌍 Location: [Addis Ababa Ethiopia]
-- 👨‍💻 Occupation: [Student/freelancing]
-- 🎓 Education: [Alx, UoPeople, AASTU]
-- 📚 Interests: [Coding, MeMe, Soccer]
+- 🌍 Location: Addis Ababa Ethiopia
+- 👨‍💻 Occupation: Student/freelancing
+- 🎓 Education: Alx, UoPeople, AASTU
+- 📚 Interests: Coding, MeMe, Soccer
 
 ## GitHub Stats
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Byronseilous]&show_icons=true&theme=dark)
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Byronseilous&show_icons=true&theme=dark)
 
 ## Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Byronseilous]&layout=compact&theme=dark)](https://github.com/[Byronseilous])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byronseilous&layout=compact&theme=dark)](https://github.com/Byronseilous)
 
 ## Connect with Me
-- 📫 Email: [miteabebe60@gmail.com]
-- 💼 LinkedIn: [linkedin.com/mitikuabebe]
-- 🐦 Twitter: [x.com/Seilous79]
+- 📫 Email: miteabebe60@gmail.com
+- 💼 LinkedIn: linkedin.com/mitikuabebe
+- 🐦 Twitter: x.com/Seilous79
 
 
 ## My Projects
