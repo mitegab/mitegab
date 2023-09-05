@@ -1,24 +1,22 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [ Byron Seilous] 👋
 
 ## About Me
-- 😄 Pronouns: [Your Pronouns]
-- 🌍 Location: [Your Location]
-- 👨‍💻 Occupation: [Your Occupation/Role]
-- 🎓 Education: [Your Education]
-- 📚 Interests: [Your Interests]
+- 🌍 Location: [Addis Ababa Ethiopia]
+- 👨‍💻 Occupation: [Student/freelancing]
+- 🎓 Education: [Alx, UoPeople, AASTU]
+- 📚 Interests: [Coding, MeMe, Soccer]
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=dark)
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Byronseilous]&show_icons=true&theme=dark)
 
 ## Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dark)](https://github.com/[Your GitHub Username])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Byronseilous]&layout=compact&theme=dark)](https://github.com/[Byronseilous])
 
 ## Connect with Me
-- 📫 Email: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Website: [Your Website or Blog]
-- 🐦 Twitter: [Your Twitter Handle]
-- 📷 Instagram: [Your Instagram Handle]
+- 📫 Email: [miteabebe60@gmail.com]
+- 💼 LinkedIn: [linkedin.com/mitikuabebe]
+- 🐦 Twitter: [x.com/Seilous79]
+
 
 ## My Projects
 - [Project 1](https://github.com/[Your GitHub Username]/project-1): Brief description of Project 1.
@@ -35,4 +33,4 @@
 
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaboration opportunities!
 
-![Visitor Count](https://profile-counter.glitch.me/[Your GitHub Username]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/[Byronseilous]/count.svg)
