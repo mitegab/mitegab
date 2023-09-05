@@ -46,5 +46,6 @@ Here are some of my projects you might find interesting:
 
 Feel free to connect with me on LinkedIn, follow me on Twitter, or join my Telegram channel to stay updated on my latest projects and interests. Let's collaborate and learn together! 😊
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Byronseilous.Byronseilou&count_initial=2845)
+![Profile Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=$.count&url=https://api.countapi.xyz/hit/Byronseilous/Byronseilou)
+
 
