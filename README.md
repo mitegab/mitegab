@@ -29,7 +29,7 @@ Here are some of my projects that I'm proud of:
 2. [Project 2 Name](Link to Project 2) - Brief project description.
 3. [Project 3 Name](Link to Project 3) - Brief project description.
 
-You can explore more of my work on [my GitHub profile](https://github.com/YourUsername).
+You can explore more of my work on [my GitHub profile](https://github.com/Byronseilous).
 
 ## Open Source Contributions
 
@@ -51,11 +51,11 @@ Feel free to check out [my blog](Your Blog Link) for more articles and tutorials
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Byronseilous&show_icons=true&count_private=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Byronseilous)
 
 ## Connect with Me
 
